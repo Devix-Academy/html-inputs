@@ -77,4 +77,3 @@ Crea un formulario de encuesta sobre hábitos de lectura que incluya:
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
 
 **¡Confío en tus habilidades!** Adelante, demuestra tu dominio  en HTML y lleva tus proyectos web al siguiente nivel.
-# html-inputs
