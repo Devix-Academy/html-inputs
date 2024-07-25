@@ -36,8 +36,6 @@ Crea una página HTML con un título (h1) "Contáctanos" y un formulario que inc
 ### Ejercicio # 2: Formulario de suscripción a newsletter
 Diseña un formulario de suscripción que incluya campos para nombre, correo electrónico y un checkbox para aceptar términos y condiciones. Añade un párrafo (p) explicativo y un enlace (a) a los términos y condiciones.
 
->> Pista: Utiliza `<li>` para cada elemento de la lista. `<li>` servirá como un contenedor para agregar la extructura texto/imagen dada por el ejercicio. Recuerda incluir el atributo alt en cada imagen.
-
 ### Ejercicio # 3: Formulario de pedido de pizza:
 Crea un formulario que permita al usuario pedir una pizza. Incluye campos para:
 
