@@ -45,7 +45,7 @@ Crea un formulario que permita al usuario pedir una pizza. Incluye campos para:
 * Instrucciones especiales (textarea)
 * Añade una imagen (img) de una pizza al principio del formulario.
 
->> Pista: Investiga que son los elementos `<fieldset>` y `<legend>` y usalos para agrupar los radio buttons y checkboxes.
+> Pista: Investiga que son los elementos `<fieldset>` y `<legend>` y usalos para agrupar los radio buttons y checkboxes.
 
 ### Ejercicio # 4: Formulario de registro con validación
 Diseña un formulario de registro que incluya:
@@ -70,7 +70,7 @@ Crea un formulario de encuesta sobre hábitos de lectura que incluya:
 * Usa encabezados (h2, h3) para separar secciones, una lista desordenada (ul) para agrupar opciones, y añade un enlace `<a>` al final para "Ver resultados de la encuesta".
 * Añade validación HTML5 (required, pattern, etc.) en los campos que aplique.
 
->> Recuerda usar el atributo name en todos los inputs para que los datos se envíen correctamente. También, considera añadir un botón de envío al final de cada formulario: `<button type="submit">Enviar</button>`
+> Recuerda usar el atributo name en todos los inputs para que los datos se envíen correctamente. También, considera añadir un botón de envío al final de cada formulario: `<button type="submit">Enviar</button>`
 
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
 
